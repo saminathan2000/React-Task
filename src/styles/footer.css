@@ -1,0 +1,17 @@
+.footer h3 {
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+}
+.footer a {
+  font-size: 14px;
+  color: #979797;
+}
+
+.uk-card > div {
+  padding-bottom: 12px;
+}
+
+.background-secondary {
+  background-color: #000;
+}/*# sourceMappingURL=footer.css.map */
